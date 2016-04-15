@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NintendoCDN-TicketParser
 Checks a decrypted title keys file for the legit title keys, looks through 3dsdb for them, and gets info about them.
 
@@ -16,3 +17,7 @@ You need a copy of your decrypted title keys, which you can get using [Decrypt9]
 Plailect - for [PlaiCDN](https://github.com/Plailect/PlaiCDN)
 Shadowhand - for help with the region parsing code
 Everyone else on freenode #Cakey for support
+=======
+# PlaiCDN-TitleIdParser
+# moved [here](https://github.com/HouseBreaker/NintendoCDN-TicketParser)
+>>>>>>> 646021ee9903e65eba8d0f72e250e4e9ae88fadf
