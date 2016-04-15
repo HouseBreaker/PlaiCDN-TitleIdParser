@@ -1,2 +1,2 @@
 # PlaiCDN-TitleIdParser
-moved
+# moved [here](https://github.com/HouseBreaker/NintendoCDN-TicketParser)
